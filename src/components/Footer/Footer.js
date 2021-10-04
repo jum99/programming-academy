@@ -4,7 +4,7 @@ import './Footer.css';
 const Footer = () => {
     return (
         <div>
-            <div className="footer-container bg-dark">
+            <div className="footer-container">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-6">
@@ -27,7 +27,7 @@ const Footer = () => {
                                 </div>
 
                                 <p className="mt-3">
-                                    <small>Yeasin Rahaman © . All rights reserved.</small>
+                                    <small>© Programming Academy 2021, All rights reserved.</small>
                                 </p>
                             </div>
                         </div>
@@ -35,12 +35,15 @@ const Footer = () => {
                             <div className="right-footer-container d-flex justify-content-end">
                                 <div className=" ">
                                     <div>
-                                        <h5>+88 01675440454</h5>
+                                        <h2>Our Contacts</h2>
+                                        <br />
+                                        <h5>+302-88-909-444</h5>
                                         <p>
-                                            102 1st Avenue, road number 5
+                                            3rd Floor, Al Hamra Shopping City, Zindabazar
                                             <br />
-                                            Dhaka 1205, Bangladesh
+                                            Sylhet 3100, Bangladesh.
                                         </p>
+
                                     </div>
                                 </div>
                             </div>

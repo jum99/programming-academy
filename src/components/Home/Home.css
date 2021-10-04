@@ -1,12 +1,12 @@
 .hero-section{
-    background-color: #264653;
+    background-color:rgb(37, 3, 25);
 }
-.edu{
+.programming{
     font-weight: 800;
-    color: orange;
+    color: rgb(199, 160, 61);
 }
-.bro{
-    color: rgb(2, 0, 107);
+.academy{
+    color: rgb(148, 216, 165);
     font-weight: 800;
 }
 

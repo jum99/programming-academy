@@ -5,11 +5,11 @@ const ContactUs = () => {
     return (
         <div className="contact-us">
             <div className=" contact d-flex mt-5 justify-content-center ">
-                <h1 className='edu' >Contact Us</h1>
+                <h1 className='programming' >Contact Us</h1>
             </div>
             <div className="container contact-form ">
                 <form method="post">
-                    <h3>Get in touch </h3>
+                    <h3 className="text-black">Stay In Touch </h3>
                     <div className="row">
                         <div className="col-md-6">
                             <div className=" p-2">

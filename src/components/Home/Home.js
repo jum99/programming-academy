@@ -22,7 +22,7 @@ const Home = () => {
                         <div className="col-lg-6 col-md-6 col-12 d-flex justify-content-center align-items-center ">
                             <div>
                                 <h3 >Learn With</h3>
-                                <h1 > <span className='edu'>Programming</span>  <span className='bro'>Academy</span>
+                                <h1 > <span className='programming'>Programming</span>  <span className='academy'>Academy</span>
                                 </h1>
                                 <p >Programming Academy is a online-based platform where we provide different kind of courses for students who want to build their career with programming.We want to create a world where anyone can build something meaningful with technology, and everyone has the learning tools, resources, and opportunities to do so.</p>
 
@@ -43,7 +43,7 @@ const Home = () => {
             </section >
             <div className="container mt-5 mb-5" >
                 <div className="d-flex mt-5 justify-content-center ">
-                    <h1 className='edu' >Popular Courses</h1>
+                    <h1 className='programming' >Highly Rated Courses</h1>
                 </div>
 
                 <div className="row row-cols-1 row-cols-md-3 g-4 mt-5 text-black  ">

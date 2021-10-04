@@ -5,17 +5,17 @@ import logo from '../../images/logo.png';
 
 const MenuBar = () => {
     return (
-        <div className="MenuBar-container bg-dark ">
+        <div className="MenuBar-container">
             <div className="container">
                 <div className="row">
                     <div className="col-md-2">
-                        <div className="logo-img d-flex align-middle p-2">
-                            <img className="pe-3" src={logo} alt="" />
+                        <div className="logo-img d-flex align-center p-2">
+                            <img className="logo p-3 w-100" src={logo} alt="" />
                         </div>
                     </div>
                     <div className="col-md-10">
                         <div className="menu-container ">
-                            <ul className="d-flex align-items-end justify-content-end menu-container-list">
+                            <ul className="d-flex align-center justify-content-end menu-container-list">
                                 <Link to="/home" className="items">
                                     <li>Home</li>
                                 </Link>

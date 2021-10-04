@@ -2,6 +2,7 @@
     display: flex;
     list-style: none;
     margin-right: 30px;
+    margin-top: 30px;
     font-size: 22px;
     font-weight: 500;
     cursor: pointer;
@@ -13,7 +14,7 @@
     color: orange;
   }
   body {
-    background: #2a2e32;
+    background: whitesmoke;
 color: white;
   }
   ul li{
@@ -21,4 +22,10 @@ color: white;
   }
   ul li:hover{
     color: orange;
+  }
+  .logo-img.d-flex.align-center.p-2 {
+    width: 500px;
+  }
+  .MenuBar-container{
+    background-color: rgb(62, 17, 94);
   }

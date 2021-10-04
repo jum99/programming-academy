@@ -3,3 +3,11 @@
     color: orange;
     font-weight: 600;
 }
+.img-fluid.rounded-start.w-100{
+    width: 300px;
+    height: 300px;
+}
+.card.h-100.hover{
+    height: 350px;
+    width: 400px;
+}
