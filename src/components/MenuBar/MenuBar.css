@@ -13,7 +13,7 @@
   }
 
   .items:hover {
-    color: orange;
+    color: goldenrod;
   }
 
   body {
@@ -25,7 +25,7 @@
   }
 
   ul li:hover{
-    color: orange;
+    color: goldenrod;
   }
 
   .logo-img.d-flex.align-center.p-2 {

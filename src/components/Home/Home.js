@@ -50,7 +50,7 @@ const Home = () => {
                 <div className="row row-cols-1 row-cols-md-4 g-5 mt-4 text-black  ">
 
                     {homeCourses.map(homeCourse => <div className="col" key={homeCourse.key}>
-                        <div className="home-cards card h-100 hover">
+                        <div className="home-cards card h-100 g-5 hover">
                             <img src={homeCourse.img} className="home-images rounded-start w-100" alt="..." />
                             <div className="card-body">
                                 <h5 className="card-title">{homeCourse.name}</h5>

@@ -1,7 +1,7 @@
 /*------ hover effect added ------ */
 .hover:hover .card-footer{
     background-color: #264653;
-    color: orange;
+    color: goldenrod;
     font-weight: 600;
 }
 

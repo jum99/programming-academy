@@ -9,7 +9,7 @@
     {
         "key": "002",
         "name": "Python Learning",
-        "description": "Python for developing softwares and add more performance.",
+        "description": "Python for developing website and softwares and add more performance.",
         "price": 80,
         "img": "https://365datascience.com/resources/blog/2019-10-python-everything-you-should-know.jpg"
     },
@@ -23,7 +23,7 @@
     {
         "key": "004",
         "name": "Web Development",
-        "description": "Front-end, back-end and full-stack web development.",
+        "description": "Front-end, back-end and full-stack web development full course.",
         "price": 70,
         "img": "https://webapp99.com/wp-content/uploads/2020/04/web-development-guideline-for-2020-t0-2030.jpeg"
     },

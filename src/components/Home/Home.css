@@ -25,13 +25,13 @@
 /*------ home section cards images style ------ */
 .home-images.rounded-start.w-100{
     width: 315px;
-    height: 200px;
+    height: 220px;
 }
 
 /*------- home section cards style ------ */
 .home-cards.card.h-100.hover{
-    height: 200px;
-    width: 310px;
+    height: 250px;
+    width: 315px;
     box-shadow: 2px 2px 8px 2px #aca8a8;
 }
 
@@ -45,6 +45,6 @@
 }
 .hover:hover{
     transform: scale(1.05);
-    box-shadow: 0 0 5px orange;
+    box-shadow: 0 0 5px goldenrod;
     
 }
