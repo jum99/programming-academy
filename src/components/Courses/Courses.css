@@ -1,13 +1,25 @@
+/*------ hover effect added ------ */
 .hover:hover .card-footer{
     background-color: #264653;
     color: orange;
     font-weight: 600;
 }
-.img-fluid.rounded-start.w-100{
-    width: 300px;
-    height: 300px;
-}
-.card.h-100.hover{
-    height: 350px;
+
+/*------ courses section cards image style ------ */
+.rounded-start.w-100{
     width: 400px;
+    height: 260px;
+}
+
+/*------ courses section cards style ------- */
+.card.h-100.hover{
+    height: 280px;
+    width: 410px;
+    box-shadow: 3px 3px 8px 3px #aca8a8;
+}
+
+/*------ card footer style ------- */
+.card-footer{
+    background-color: #19556d;
+    color: rgb(248, 180, 9);
 }

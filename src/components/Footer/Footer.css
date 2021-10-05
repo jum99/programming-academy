@@ -1,13 +1,8 @@
+/*------ footer part style ------ */
 .footer-container {
     padding: 10px;
     color: rgb(216, 209, 209);
     bottom: 0;
     width: 100%;
-    background-color: rgb(62, 17, 94);
-  }
-  .icon{
-    font-size: 30px;
-  }
-  .icon :hover{
-    color: orange;
+    background-color:  #060f20;
   }

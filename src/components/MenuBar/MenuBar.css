@@ -1,3 +1,4 @@
+/*------ menubar part style ------ */
 .items {
     display: flex;
     list-style: none;
@@ -10,22 +11,27 @@
     text-decoration: none;
   
   }
+
   .items:hover {
     color: orange;
   }
+
   body {
-    background: whitesmoke;
-color: white;
+     background-color: whitesmoke;
   }
+
   ul li{
     color: white;
   }
+
   ul li:hover{
     color: orange;
   }
+
   .logo-img.d-flex.align-center.p-2 {
     width: 500px;
   }
+
   .MenuBar-container{
-    background-color: rgb(62, 17, 94);
+      background-color:  #060f20;
   }

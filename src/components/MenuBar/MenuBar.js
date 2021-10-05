@@ -3,6 +3,7 @@ import './MenuBar.css';
 import { Link } from 'react-router-dom';
 import logo from '../../images/logo.png';
 
+//------ menubar section -----//
 const MenuBar = () => {
     return (
         <div className="MenuBar-container">

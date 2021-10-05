@@ -1,6 +1,18 @@
+/*----- home section style ----- */
 .hero-section{
-    background-color:rgb(37, 3, 25);
+     background-color: #021844;     
 }
+
+/*------- button style ------ */
+ .my-btn{
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 20px;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 5px;
+ } 
+
 .programming{
     font-weight: 800;
     color: rgb(199, 160, 61);
@@ -10,6 +22,20 @@
     font-weight: 800;
 }
 
+/*------ home section cards images style ------ */
+.home-images.rounded-start.w-100{
+    width: 315px;
+    height: 200px;
+}
+
+/*------- home section cards style ------ */
+.home-cards.card.h-100.hover{
+    height: 200px;
+    width: 310px;
+    box-shadow: 2px 2px 8px 2px #aca8a8;
+}
+
+/*------- hover effect ------- */
 .hover{
     display: inline-block;
     vertical-align: middle;
@@ -17,7 +43,6 @@
     transition-duration: 0.3s;
     transition-property: transform;
 }
-
 .hover:hover{
     transform: scale(1.05);
     box-shadow: 0 0 5px orange;

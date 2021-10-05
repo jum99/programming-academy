@@ -4,3 +4,19 @@
 .contact-us{
     height: 80vh;
 }
+
+/*------ contact form style added ----- */
+.contact-form{
+    background-color: rgb(60, 138, 125);
+    border-radius: 5px;
+}
+
+/*------ button style added ------ */
+.my-btn{
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 15px;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    border-radius: 5px;
+ }    
