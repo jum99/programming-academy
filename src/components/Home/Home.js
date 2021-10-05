@@ -22,7 +22,7 @@ const Home = () => {
 
                         <div className="col-lg-6 col-md-6 col-12 d-flex justify-content-center align-items-center ">
                             <div>
-                                <h3 >Learn With</h3>
+                                <h3 className="text-white">Learn With</h3>
                                 <h1 > <span className='programming fs-1'>Programming</span>  <span className='academy fs-1'>Academy</span>
                                 </h1>
                                 <p className="text-white fs-5">Programming Academy is a online-based platform where we provide different kind of courses for students who want to build their career with programming.We want to create a world where anyone can build something meaningful with technology, and everyone has the learning tools, resources, and opportunities to do so.</p>
